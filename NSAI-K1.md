@@ -15,7 +15,7 @@ Freatures -
 - Dataset of 3000+ lines in Pack
 - Can code and Chat
 - Updates will be Coming
-- Error free
+- Small Error Being given to Solve 
 - Script For training as you want
 - ```Guide.pdf``` for Using and custmizing
 
