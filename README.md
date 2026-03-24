@@ -33,6 +33,7 @@ Why to Buy?
 Where to Buy?
 
 - Go on https://whop.com/nsai/nsai-k1-prime-core/
+- Get on https://www.fiverr.com/users/navtej_singh_/portfolio/NjljMjI3Njg2OGFlMDcxNTQyMWNhN2Uw
 - Or mail me navtejsingh15032011@gmail.com for querties
  
 ---
