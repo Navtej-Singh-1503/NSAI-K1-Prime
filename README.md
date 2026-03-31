@@ -1,43 +1,118 @@
-# NSAI-K1-Prime
-A Powerful Self-Trainable AI Study Kit.. Check out README.md
+# NSAI-K1 Prime
 
-# Hi There,
+A Hybrid Offline AI System for Learning and Customization
 
-I Navtej Singh is selling his AI [ NSAI-K1: prime core ] for Just $30.9.
-
-Full Trained and Organized AI Chatbot
-
-Freatures - 
-
-- Learn as you use
-- Cool and Clean UI
-- Both UI and Terminal Version in Pack
-- Both Offlline and Online Working
-- Inspect It code
-- Labour Cost is $250 and it's just for $30.9
-- Dataset of 3000+ lines in Pack
-- Can code and Chat
-- Updates will be Coming
-- Small Error Being given to Solve 
-- Script For training as you want
-- ```Guide.pdf``` for Using and custmizing
-
-Why to Buy?
-
-- Free perview
-- Super for Learning AI
-- Can used for Fun
-- Contains all Script for both Costumize and Use
-- On Other AIs APIs are used 
-
-Where to Buy?
-
-- Go on https://whop.com/nsai/nsai-k1-prime-core/
-- Get on https://www.fiverr.com/users/navtej_singh_/portfolio/NjljMjI3Njg2OGFlMDcxNTQyMWNhN2Uw
-- Or mail me navtejsingh15032011@gmail.com for querties
- 
 ---
 
-*Navtej-Singh-1503*
+## Overview
 
-https://github.com/Navtej-Singh-1503
+NSAI-K1 Prime is a customizable AI system designed for students and developers who want to understand, modify, and run an AI chatbot locally.
+
+It combines a transformer-based language model with a memory system and web-assisted responses to provide both offline and online capabilities.
+
+---
+
+## Key Features
+
+* Transformer-based language model (PyTorch)
+* Custom tokenizer and training pipeline
+* Memory-based learning (stores and reuses interactions)
+* Web-assisted responses using search and parsing
+* Wikipedia fallback for general knowledge
+* Works in both Terminal and Streamlit UI
+* Offline + Online hybrid system
+* Fully customizable source code
+* Training script included
+* Dataset support (JSONL format)
+
+---
+
+## Project Structure
+
+* model.py → Transformer architecture
+* tokenizer.py → Tokenization system
+* dataset.py → Data processing pipeline
+* train.py → Training script
+* AI.py → Core chat logic
+* main.py → Streamlit UI
+* data/ → Dataset storage
+* checkpoints/ → Model weights and config
+
+---
+
+## Installation
+
+Clone the repository and install dependencies:
+
+pip install -r requirements.txt
+
+---
+
+## Usage
+
+Run the terminal version:
+
+python AI.py
+
+Run the UI version:
+
+streamlit run main.py
+
+---
+
+## Example
+
+Input:
+Explain Newton’s Laws in simple terms
+
+Output:
+Newton’s laws describe how objects move. The first law states that an object will remain at rest or in motion unless acted upon by a force...
+
+---
+
+## Who This Is For
+
+* Students learning AI and machine learning
+* Beginners exploring transformer models
+* Developers who want a customizable AI base
+* Users interested in offline AI systems
+
+---
+
+## Limitations
+
+* Model performance depends on dataset size
+* Not comparable to large-scale AI models
+* Web features require internet connection
+
+---
+
+## Pricing
+
+One-time access: $10.9
+
+Includes:
+
+* Full source code
+* Pretrained model
+* Dataset
+* Training scripts
+* Documentation
+
+---
+
+## Purchase
+
+https://whop.com/nsai/nsai-k1-prime-core/
+
+---
+
+## Contact
+
+Email: [navtejsingh15032011@gmail.com](mailto:navtejsingh15032011@gmail.com)
+
+---
+
+## License
+
+See LICENSE file for details
